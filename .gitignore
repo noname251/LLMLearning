@@ -1,2 +1,3 @@
-/.ipynb_checkpoints/*.ipynb
-/Transformer/.ipynb_checkpoints/*.ipynb
+/.ipynb_checkpoints/
+/Transformer/.ipynb_checkpoints/
+/__pycache__/
